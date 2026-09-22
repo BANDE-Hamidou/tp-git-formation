@@ -1,5 +1,5 @@
 function login() {
-  const u = "utilisateur";
-  const p = "motdepasse";
-  console.log("Connexion de " + u);
+  const username = "utilisateur";
+  const password = "motdepasse";
+  console.log("Connexion de " + username);
 }
